@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Carbin2</string>
+
+    <string name="google_maps_api_key">AIzaSyD_LQ-_DbcohMBNLFi7uuVY2I3_spQ51qo</string>
+
+    <string-array name="speed">
+        <item>mph</item>
+        <item>km/h</item>
+        <item>m/s</item>
+    </string-array>
+
+    <string-array name="distance">
+        <item>mi</item>
+    </string-array>
+
+    <string-array name="fuel">
+        <item>Gasoline</item>
+        <item>Diesel</item>
+        <item>Electric</item>
+    </string-array>
+
+</resources>
